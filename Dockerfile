@@ -7,4 +7,4 @@ USER root
 RUN mkdir /jboss && \
  chmod 777 /jboss
  
-COPY jboss-as-7.1.1.Final /jboss/
+COPY jboss-as-7.1.1.Final /jboss/jboss-as-7.1.1.Final
